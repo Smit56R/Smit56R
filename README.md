@@ -1,6 +1,6 @@
 <h2> Hi, I'm Smit! <img src="https://media.giphy.com/media/tdrbfabfHYTginSedt/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/eibJaNe7gompM4y5fp/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Final year student at Nirma University pursuing Computer Science and Engineering</br>
 </em></p>
 
 [![Linkedin: smitrajrana](https://img.shields.io/badge/-smitrajrana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smitraj-rana-41072220a/)](https://www.linkedin.com/in/in/smitraj-rana-41072220a/)
@@ -19,6 +19,6 @@ const smit = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/HTS2xXy95dX4gQokKs/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to reply!</b> :)</em>
 
 ---
