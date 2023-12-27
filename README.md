@@ -1,5 +1,5 @@
-<h2> Hi, I'm Smit! <img src="https://media.giphy.com/media/tdrbfabfHYTginSedt/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/eibJaNe7gompM4y5fp/giphy.gif" width="270">
+<h2> Hi, I'm Smit! <img align='bottom' src="https://media.giphy.com/media/tdrbfabfHYTginSedt/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/eibJaNe7gompM4y5fp/giphy.gif" width="300">
 <p><em>Final year student at Nirma University pursuing Computer Science and Engineering</br>
 </em></p>
 
@@ -7,7 +7,7 @@
 [![GitHub Smit56R](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/smit56r)
 
 
-### <img src="https://media.giphy.com/media/F5ELURcFr2u42brUSc/giphy.gif" width="50"> A little more about me...  
+### <img align='bottom' src="https://media.giphy.com/media/F5ELURcFr2u42brUSc/giphy.gif" height="50" width="50"> A little more about me...  
 
 ```javascript
 const smit = {
