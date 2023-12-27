@@ -1,5 +1,5 @@
 <h2> Hi, I'm Smit! <img src="https://media.giphy.com/media/tdrbfabfHYTginSedt/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/eibJaNe7gompM4y5fp/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/eibJaNe7gompM4y5fp/giphy.gif" width="270">
 <p><em>Final year student at Nirma University pursuing Computer Science and Engineering</br>
 </em></p>
 
@@ -7,14 +7,14 @@
 [![GitHub Smit56R](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/smit56r)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/F5ELURcFr2u42brUSc/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const smit = {
   pronouns: "he" | "him",
-  code: [C/C++, Java, Python, JavaScript, PHP, SQL, Dart],
-  technology: [Flutter, React.js, Express.js, Node.js, MongoDB, MySQL, Unix, Git, Google Cloud Platform, Firebase, Unity],
-  others: [Machine Learning, HTML, CSS],
+  code: ["C/C++", "Java", "Python", "JavaScript", "PHP", "SQL", "Dart"],
+  technology: ["Flutter", "React.js", "Express.js", "Node.js", "MongoDB", "MySQL", "Unix", "Git", "Google Cloud Platform", "Firebase", "Unity"],
+  others: ["Machine Learning", "HTML", "CSS"],
   currently: "Learning more about open-source"
 }
 ```
