@@ -1,58 +1,24 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<h2> Hi, I'm Smit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<h2> Hey there! I'm Smit.</h2>
+[[![Linkedin: smitrajrana](https://img.shields.io/badge/-smitrajrana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smitraj-rana-41072220a//)](https://www.linkedin.com/in/smitraj-rana-41072220a/)](https://www.linkedin.com/in/smitraj-rana-41072220a/)
+[![GitHub Smit56R](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/smit56r)
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering at the Nirma University.
-<!--- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.-->
-- 🌱 &nbsp; Learning more about Open-source, Systems Design and Native Development.
-<!--- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.-->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+```javascript
+const smit = {
+  pronouns: "he" | "him",
+  code: [C/C++, Java, Python, JavaScript, PHP, SQL, Dart],
+  technology: [Flutter, React.js, Express.js, Node.js, MongoDB, MySQL, Unix, Git, Google Cloud Platform, Firebase, Unity],
+  others: [Machine Learning, HTML, CSS],
+  currently: "Learning more about open-source"
+}
+```
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)-->
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  <!--![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)-->
-<!--- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)-->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<br/>
-
-<a href="https://github.com/smit56r">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smit56r&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smit56r&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://github.com/Smit56R/"><img alt="Website" src="https://img.shields.io/badge/Website-github.com/Smit56R-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/smitraj-rana-41072220a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Smitraj%20Rana-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.fiverr.com/smitrajrana/"><img alt="Fiverr" src="https://img.shields.io/badge/smitrajrana?style=flat-square&logo=fiverr"></a>
-<a href="mailto:smitrajrana57@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-smitrajrana57@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+---
