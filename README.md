@@ -52,7 +52,7 @@
 
 <p align="center">
 <a href="https://github.com/Smit56R/"><img alt="Website" src="https://img.shields.io/badge/Website-github.com/Smit56R-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/smitraj-rana-41072220a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.fiverr.com/smitrajrana/"><img alt="Fiverr" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:smitrajrana57@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/smitraj-rana-41072220a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Smitraj%20Rana-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.fiverr.com/smitrajrana/"><img alt="Fiverr" src="https://img.shields.io/badge/smitrajrana?style=flat-square&logo=fiverr"></a>
+<a href="mailto:smitrajrana57@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-smitrajrana57@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
