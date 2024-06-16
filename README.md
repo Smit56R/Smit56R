@@ -1,6 +1,6 @@
 <h2> Ahoy, I'm Smit! <img align='bottom' src="https://media.giphy.com/media/tdrbfabfHYTginSedt/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/eibJaNe7gompM4y5fp/giphy.gif" width="300">
-<p><em>Final year student at Nirma University pursuing Computer Science and Engineering</br>
+<p><em>SWE Intern at Uniqode</br>
 </em></p>
 
 [![Linkedin: smitrajrana](https://img.shields.io/badge/-smitrajrana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smitraj-rana-41072220a/)](https://www.linkedin.com/in/in/smitraj-rana-41072220a/)
@@ -17,7 +17,7 @@
 const smit = {
   pronouns: "he" | "him",
   programming: ["C/C++", "Java", "Python", "JavaScript", "PHP", "SQL", "Dart"],
-  technology: ["Flutter", "React.js", "Express.js", "Node.js", "MongoDB", "MySQL", "Unix", "Git", "Google Cloud Platform", "Firebase", "Unity"],
+  technology: ["Flutter", "React.js", "Express.js", "Node.js", "MongoDB", "MySQL", "Docker", "Google Cloud Platform", "Firebase", "Git", "MUI", "Unity"],
   miscellaneous: ["Machine Learning", "HTML", "CSS"],
   currently: "Delving into the open-source currents of GitHub"
 }
